@@ -22,11 +22,8 @@ docker build -t java-runtime-check .
 docker run -e APP_ID=<app-id> -e PRIVATE_KEY=<pem-value> java-runtime-check
 ```
 
-## Contributing
-
-If you have suggestions for how java-runtime-check could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
-
-For more, check out the [Contributing Guide](CONTRIBUTING.md).
+## OCI API Keys
+- Sign up for a OCI free tier account to get the api keys (Pem file & config file)
 
 ## License
 
